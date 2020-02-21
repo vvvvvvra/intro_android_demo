@@ -1,4 +1,4 @@
-intro_android_demo
+feature branch intro_android_demo
 ==================
 
 Demo of app exercises for Intro to Android App Development
